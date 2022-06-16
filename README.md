@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @info-tpr - The GitHub info site for [The Parallel Revolution, LLC.](https://www.theparallelrevolution.com)
+- 👀 We are interested in providing a positive impact for the Cryptocurrency and Blockchain communities
+- 🌱 We are always learning
+- 💞️ We are collaborating on Cardano Stakepool Operation, and development of Server Operations improvements.
+- 📫 Email at: [info@theparallelrevolution.com](mailto:info@theparallelrevolution.com), [Discord](https://discord.gg/7v4Rqves) or [Telegram](https://t.me/tprevolution)
